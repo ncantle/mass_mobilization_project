@@ -1,8 +1,8 @@
 # Hear Us: Toward a More Just World
 
 Project completed in partnership with:
-David Holcomb - LinkedIn: https://www.linkedin.com/in/davidcholcomb/ 
-J Howard - LinkedIn: https://www.linkedin.com/in/justhow/
+- David Holcomb - LinkedIn: https://www.linkedin.com/in/davidcholcomb/ 
+- J Howard - LinkedIn: https://www.linkedin.com/in/justhow/
 
 ## Web APIs & NLP
 
